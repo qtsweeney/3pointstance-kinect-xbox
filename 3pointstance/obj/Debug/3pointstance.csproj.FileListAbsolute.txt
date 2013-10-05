@@ -1,0 +1,15 @@
+c:\users\sween\documents\visual studio 2012\Projects\3pointstance\3pointstance\bin\Debug\3pointstance.exe.config
+c:\users\sween\documents\visual studio 2012\Projects\3pointstance\3pointstance\bin\Debug\3pointstance.exe
+c:\users\sween\documents\visual studio 2012\Projects\3pointstance\3pointstance\bin\Debug\3pointstance.pdb
+c:\users\sween\documents\visual studio 2012\Projects\3pointstance\3pointstance\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+c:\users\sween\documents\visual studio 2012\Projects\3pointstance\3pointstance\bin\Debug\Microsoft.Kinect.Toolkit.dll
+c:\users\sween\documents\visual studio 2012\Projects\3pointstance\3pointstance\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+c:\users\sween\documents\visual studio 2012\Projects\3pointstance\3pointstance\obj\Debug\MainWindow.baml
+c:\users\sween\documents\visual studio 2012\Projects\3pointstance\3pointstance\obj\Debug\MainWindow.g.cs
+c:\users\sween\documents\visual studio 2012\Projects\3pointstance\3pointstance\obj\Debug\App.g.cs
+c:\users\sween\documents\visual studio 2012\Projects\3pointstance\3pointstance\obj\Debug\3pointstance_MarkupCompile.cache
+c:\users\sween\documents\visual studio 2012\Projects\3pointstance\3pointstance\obj\Debug\3pointstance.g.resources
+c:\users\sween\documents\visual studio 2012\Projects\3pointstance\3pointstance\obj\Debug\_3pointstance.Properties.Resources.resources
+c:\users\sween\documents\visual studio 2012\Projects\3pointstance\3pointstance\obj\Debug\3pointstance.csproj.GenerateResource.Cache
+c:\users\sween\documents\visual studio 2012\Projects\3pointstance\3pointstance\obj\Debug\3pointstance.exe
+c:\users\sween\documents\visual studio 2012\Projects\3pointstance\3pointstance\obj\Debug\3pointstance.pdb
